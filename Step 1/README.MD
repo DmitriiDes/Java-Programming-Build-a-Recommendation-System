@@ -1,0 +1,1 @@
+https://d3c33hcgiwev3.cloudfront.net/_8a696bf590991573f964a819a5446746_Programming-Exercise---Step-One.pdf?Expires=1517961600&Signature=LjvYueXZniPe8NsiJiJJnOVZD9PwAFdqH9Pmfzql1RAG~slr-5EvEBIbnUkyWOVANsCAR4jptB9F6RJve338cgXVvkbf-dN56~IOGKMOJBwtUkf9zQthZNbZCzz-wkmrikG7Eumhoro3Spaj6iaI6N8eG6dgXMzzW1rBZEA4KHA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
