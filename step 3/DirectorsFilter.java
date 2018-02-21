@@ -5,6 +5,8 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
+import java.util.*;
+
 public class DirectorsFilter implements Filter{
     private String myDirector;
     
@@ -14,6 +16,12 @@ public class DirectorsFilter implements Filter{
     
     @Override
     public boolean satisfies(String id) {
-        return myDirector.contains(MovieDatabase.getDirector(id));
+        List<String> DirectorsList = Arrays.asList(myDirector.split(","));
+        boolean k = false;
+        for (String DirectorFromTheList : DirectorsList){
+            //System.out.println(DirectorFromTheList);
+            k = k || MovieDatabase.getDirector(id).contains(DirectorFromTheList);
+        }
+        return k;
     }
 }
